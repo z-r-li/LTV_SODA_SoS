@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 Zhuorui Li
+Copyright (c) 2026 Zhuorui Li, Mustakeen ul Bari, Arthur Middlebrooks, Joel Oviedo
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,11 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+NOTE: this license applies to the student-authored code at the top level of
+this repository (main.m, src/, data/SODA_configurations_input.xlsx). The
+files under third_party/SODA_2.2_pcode/ are the SODA 2.2 release
+(C) Cesare Guariniello, 2017, redistributed with the author's permission for
+academic course use and are NOT covered by the MIT License above.

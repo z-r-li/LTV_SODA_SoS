@@ -1,0 +1,30 @@
+# Pipeline outputs
+results/
+*.png
+*.csv
+
+# Allow input data and the documented output schema
+!data/*.xlsx
+!docs/*.md
+
+# MATLAB
+*.asv
+*.mex*
+*.mat
+*.mlapp.bak
+slprj/
+sccprj/
+codegen/
+
+# macOS
+.DS_Store
+._*
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# Misc
+Thumbs.db
